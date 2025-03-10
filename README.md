@@ -6,4 +6,4 @@ clone git
 
 unpack
 
-./blkenvfla.sh /dev/<SD-Card> 
+./blkenvfla.sh /dev/"SD-Card"
